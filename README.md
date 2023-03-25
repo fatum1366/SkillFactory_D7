@@ -1,1 +1,1 @@
-# SkillFactory_D7
+ДЗ к модулю D7
